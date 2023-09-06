@@ -1,10 +1,10 @@
 import React  from "react";
-import Navbar from "./Navbar";
+import Burger from "./Burger";
 //.....................................................
 function App() {
   return (
     <div >
-     <Navbar/>
+     <Burger/>
     </div>
   );
 }
